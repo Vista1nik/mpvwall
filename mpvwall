@@ -11,7 +11,7 @@ do
 done
 
 if [ $# == 0 ] ; then
-    echo "Usage: mpvwall.sh wallpaper_file"
+    echo "Usage: ./mpvwall wallpaper_video.mp4"
     exit 1;
 fi
 
